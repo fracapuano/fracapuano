@@ -2,7 +2,7 @@
 
 I am Francesco Capuano, Data Science and Engineering student at Politecnico di Torino, Italy's oldest university. I am enrolled in a double degree program di Mathematical Engineering. My studies currently focus on Machine Learning and Deep Learning.
 
-I am currently working on my MSc Thesis with a joint supervision from Politecnico di Torino and Politecnico di Milano, supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?user=mHbdIAwAAAAJ&hl=en), and [Prof. Giuseppe Averta](https://scholar.google.it/citations?user=i4rm0tYAAAAJ&hl=en) (from PoliTo), and [Prof. Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) (from PoliMi). 
+I am currently working on my MSc Thesis with a joint supervision from Politecnico di Torino and Politecnico di Milano, supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?user=mHbdIAwAAAAJ&hl=en), [Prof. Giuseppe Averta](https://scholar.google.it/citations?user=i4rm0tYAAAAJ&hl=en), and [Prof. Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en).
 
 ## 🎓 **Education**
 

@@ -37,6 +37,7 @@ I am currently working on my MSc Thesis with a joint supervision from Politecnic
 - 🎞️ Favourite book: _The Count of Monte Cristo_, A. Dumas
 - 🏋🏼 I have practiced almost every sport and eventually got stuck on BJJ's mats.
 - 📚 I love science. Seriously. As a full time student I even got into High Power Laser-Driven Plasma Physics (knowing only the best idea in math: Fourier-transform)
+- 🎂 I was born in Rome, 23/04/2000.
 - ⚡ Consistent overdoer. The kind of person that consistently overestimates their capabilities. Eventually it all works out tho ;)
 
 Enjoy my repositories! 🚀

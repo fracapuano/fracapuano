@@ -6,15 +6,16 @@ I am currently working on my MSc Thesis with a joint supervision from Politecnic
 
 ## 🎓 **Education**
 
- - Bachelor: Engineering @ Sapienza University of Rome, *summa cum laude*
- - Master of Science: Data Science and Engineering @ Politecnico di Torino, *currently attending*
- - Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honor Program), *currently attending*
+ - Bachelor: Engineering @ Sapienza University of Rome, Sep. 2018-July 2021 *summa cum laude*
+ - Master of Science: Data Science and Engineering @ Politecnico di Torino, Sep. 2021-*currently attending*
+ - Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honor Program), Feb. 2022-*currently attending*
 
 ## 🚆 **Experience**
-- Data Science Intern @ [Bain](https://www.bain.com/), *current*
-- Research Intern @ [ELI Beamlines](https://www.eli-beams.eu/), [VANDAL Lab](http://vandal.polito.it/), *Feb-23, May-23*
-- ML Engineering Intern @ [ELI Beamlines](https://www.eli-beams.eu/), *July-22, Oct-22*
-- Software Engineering Intern @ [NTSG](https://www.ntsgen.com/en/), *July-21*
+- 👨‍💻 Data Science Intern @ [Bain](https://www.bain.com/), June 2023-*current*
+- 🤓 Research Intern @ [ELI Beamlines](https://www.eli-beams.eu/), [VANDAL Lab](http://vandal.polito.it/), Feb. 2023-May 2023
+- ⚙️ ML Engineering Intern @ [ELI Beamlines](https://www.eli-beams.eu/), July 2022-Oct. 2022
+- 💻 Software Engineering Intern @ [NTSG](https://www.ntsgen.com/en/), July 2021
+- 🤵 A whole lot of waiting during Uni, 2017-2021. *Be nice with servers*
 
 ## 📫 **Get in touch**
 

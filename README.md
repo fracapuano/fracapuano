@@ -11,7 +11,7 @@ I am currently working on my MSc Thesis (on AutoML with Deep Reinforcement Learn
  - Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honours Program), Feb. 2022-*currently attending*
 
 ## 🚆 **Experience**
-- 👨‍💻 Data Science Intern @ [Bain](https://www.bain.com/), May 2023-*current*
+- 👨‍💻 Data Science Intern @ [Bain, Founder's Studio](https://www.bain.com/consulting-services/engine-2-ventures/founders-studio/), May 2023-*current*
 - 🤓 Research Intern @ [ELI Beamlines](https://www.eli-beams.eu/), [VANDAL Lab](http://vandal.polito.it/), Feb. 2023-May 2023
 - ⚙️ ML Engineering Intern @ [ELI Beamlines](https://www.eli-beams.eu/), July 2022-Oct. 2022
 - 💻 Software Engineering Intern @ [NTSG](https://www.ntsgen.com/en/), July 2021

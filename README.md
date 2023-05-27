@@ -43,5 +43,5 @@ I am currently working on my MSc Thesis (on AutoML with Deep Reinforcement Learn
 
 Enjoy my repositories! 🚀
 
-[![Francesco Capuano's GitHub stats](https://github-readme-stats.vercel.app/api?username=fracapuano&hide=issues&count_private=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Francesco Capuano's GitHub stats](https://github-readme-stats.vercel.app/api?username=fracapuano&hide=issues&count_private=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats) -->
 

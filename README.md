@@ -6,8 +6,8 @@ I am currently working on my MSc Thesis (on AutoML with Deep Reinforcement Learn
 
 ## 🎓 **Education**
 
- - Bachelor: Engineering @ Sapienza University of Rome, Sep. 2018-July 2021 *summa cum laude*
- - Master of Science: Data Science and Engineering @ Politecnico di Torino, Sep. 2021-July 2023 *summa cum laude*
+ - Bachelor: **Engineering @ Sapienza University of Rome**, Sep. 2018-July 2021 ***summa cum laude***
+ - Master of Science: **Data Science and Engineering @ Politecnico di Torino**, Sep. 2021-July 2023 ***summa cum laude***
  - Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honours Program), Feb. 2022-*currently attending*
 
 ## 🚆 **Experience**

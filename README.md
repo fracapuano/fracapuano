@@ -2,7 +2,8 @@
 
 I am Francesco Capuano, Data Science and Engineering student at Politecnico di Torino, Italy's oldest technical university. I am enrolled in a double degree program di Mathematical Engineering. My studies focus on Machine Learning and Deep Learning.
 
-I am currently working on my MSc Thesis (on AutoML with Deep Reinforcement Learning) with a joint supervision from Politecnico di Torino and Politecnico di Milano, supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?user=mHbdIAwAAAAJ&hl=en), [Prof. Giuseppe Averta](https://scholar.google.it/citations?user=i4rm0tYAAAAJ&hl=en), and [Prof. Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en).
+During my studies, I have specialized on Deep Reinforcement Learning and Neural Architecture Search. During my MSc Thesis, on the topic of Hardware-Aware AutoML with Deep Reinforcement Learning, I received joint supervision from researchers at Politecnico di Torino and Politecnico di Milano. In particular, I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?user=mHbdIAwAAAAJ&hl=en) and [Prof. Giuseppe Averta](https://scholar.google.it/citations?user=i4rm0tYAAAAJ&hl=en) from Politecnico di Torino, and [Prof. Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) from Politecnico di Milano. 
+On July 28th, 2023 I successfully defended my thesis with the highest marks 🎉.
 
 ## 🎓 **Education**
 

@@ -3,7 +3,7 @@
 I am Francesco Capuano, Data Science and Engineering graduate at Politecnico di Torino & Politecnico di Milano, Italy's top engineering schools. I gratuated in a special program consisting of a minor in Mathematical Engineering. 
 My studies focused on Machine Learning and Deep Learning, with particular focus on Deep Reinforcement Learning and Deep NLP.
 
-During my studies, I have specialized on Deep Reinforcement Learning and Neural Architecture Search. During my MSc Thesis, on the topic of Hardware-Aware AutoML with Deep Reinforcement Learning, I received joint supervision from researchers at Politecnico di Torino and Politecnico di Milano. In particular, I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?user=mHbdIAwAAAAJ&hl=en) and [Prof. Giuseppe Averta](https://scholar.google.it/citations?user=i4rm0tYAAAAJ&hl=en) from Politecnico di Torino, and [Prof. Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) from Politecnico di Milano. 
+My MSc thesis work revolved on Deep Reinforcement Learning and Neural Architecture Search, and received joint supervision from researchers at Politecnico di Torino and Politecnico di Milano. In particular, I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?user=mHbdIAwAAAAJ&hl=en) and [Prof. Giuseppe Averta](https://scholar.google.it/citations?user=i4rm0tYAAAAJ&hl=en) from Politecnico di Torino, and [Prof. Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) from Politecnico di Milano. 
 On July 28th, 2023 I successfully defended my thesis with the highest marks 🎉.
 
 ## 🎓 **Education**
@@ -38,7 +38,7 @@ On July 28th, 2023 I successfully defended my thesis with the highest marks 🎉
 
 - 🎞️ Favourite book: _The Count of Monte Cristo_, A. Dumas.
 - 🏋🏼 I have practiced almost every sport and eventually got stuck on BJJ's mats.
-- 📚 I love science. Seriously. As a full time student I even got into High Power Laser-Driven Plasma Physics (knowing only the best idea in math: Fourier-transform)
+- 📚 I love science. Seriously. As a full-time student I even got into High Power Laser-Driven Plasma Physics (knowing only the best idea in math: Fourier-transform)
 - 🎂 I was born in Rome, 23/04/2000.
 - ♟️ I am a chess player.
 - ⚡ Consistent overdoer.

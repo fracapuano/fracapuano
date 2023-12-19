@@ -23,7 +23,7 @@ I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fracapuano/)
 - `francesco_capuano [at] aol [dot] com`
-
+<!--
 ## 🚀 **Skills**
 
 <ul>
@@ -33,7 +33,7 @@ I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg' height='48'>  &nbsp
 
 </ul>
- 
+-->
 ## 🧠 **About me**
 
 - 🎞️ Favourite book: _The Count of Monte Cristo_, A. Dumas.

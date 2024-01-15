@@ -1,10 +1,12 @@
 # Ciao! 👋
 
 I am Francesco Capuano, Data Science and Engineering graduate at Politecnico di Torino & Politecnico di Milano, Italy's top engineering schools.
-Throughout my journey focused on **Deep Learning**, with particular focus on **Deep Reinforcement Learning** and **Deep NLP**.
+Throughout my journey I focused on **Deep Learning**, with a particular interest on **Deep Reinforcement Learning** and **Deep NLP**.
 
+<!--
 My MSc thesis work revolved on Deep Reinforcement Learning and Neural Architecture Search, and received joint supervision from researchers at Politecnico di Torino and Politecnico di Milano. 
-I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?user=mHbdIAwAAAAJ&hl=en) and [Prof. Giuseppe Averta](https://scholar.google.it/citations?user=i4rm0tYAAAAJ&hl=en) from Politecnico di Torino, and [Prof. Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) from Politecnico di Milano. 
+I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?user=mHbdIAwAAAAJ&hl=en) and [Prof. Giuseppe Averta](https://scholar.google.it/citations?user=i4rm0tYAAAAJ&hl=en) from Politecnico di Torino, and [Prof. Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) from Politecnico di Milano.
+-->
 
 ## 🎓 **Education**
 

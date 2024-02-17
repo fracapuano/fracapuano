@@ -39,11 +39,10 @@ I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?
 ## 🧠 **About me**
 
 - 🎞️ Favourite book: _The Count of Monte Cristo_, A. Dumas.
-- 🏋🏼 I have practiced almost every sport and eventually got stuck on BJJ's mats. 
-- 📚 I love science. Seriously. As a full-time student, I even got into High Power Laser-Driven Plasma Physics (knowing only the best idea in math: Fourier-transform)
-- 🎂 I was born in Rome, 23/04/2000.
+- 🏋🏼 I have practiced almost every sport and eventually got stuck on BJJ's mats (🟦 since Nov 2023)
+- 📚 I love science.
+- 🎂 I was born in Rome, Italy, 23/04/2000.
 - ♟️ I am a chess player.
-- ⚡ Consistent overdoer.
 
 Enjoy my repositories! 🚀
 

@@ -12,7 +12,7 @@ I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?
 
  - Bachelor: **Engineering @ Sapienza University of Rome**, Sep. 2018-July 2021 ***summa cum laude***
  - Master of Science: **Data Science and Engineering @ Politecnico di Torino**, Sep. 2021-July 2023 ***summa cum laude***
- - Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honours Program), Feb. 2022-*currently attending*
+ - Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honours Program), Feb. 2022-Feb. 2024
 
 ## 🚆 **Experience**
 - 👨‍💻 Machine Learning Engineer @ [Founder's Studio, Bain & Co.](https://www.bain.com/consulting-services/engine-2-ventures/founders-studio/), May 2023-*current*

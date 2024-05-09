@@ -15,7 +15,7 @@ I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?
  - Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honours Program), Feb. 2022-Feb. 2024
 
 ## 🚆 **Experience**
-- 👨‍💻 Machine Learning Engineer @ [Founder's Studio, Bain & Co.](https://www.bain.com/consulting-services/engine-2-ventures/founders-studio/), May 2023-*current*
+- 👨‍💻 Machine Learning Engineer @ [Founder's Studio, Bain & Co.](https://www.bain.com/consulting-services/engine-2-ventures/founders-studio/), May 2023-March 2024
 - 🤓 Research Intern @ [ELI Beamlines](https://www.eli-beams.eu/) & [VANDAL Lab](http://vandal.polito.it/), Feb. 2023-May 2023
 - ⚙️ ML Engineering Intern @ [ELI Beamlines](https://www.eli-beams.eu/), July 2022-Oct. 2022
 - 💻 Software Engineering Intern @ [NTSG](https://www.ntsgen.com/en/), July 2021
@@ -24,7 +24,7 @@ I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?
 ## 📫 **Get in touch**
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fracapuano/)
-- `francesco_capuano [at] aol [dot] com`
+- `fc [dot] francescocapuano [at] gmail [dot] com`
 <!--
 ## 🚀 **Skills**
 

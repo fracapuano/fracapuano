@@ -15,10 +15,11 @@ I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?
  - Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honours Program), Feb. 2022-Feb. 2024
 
 ## 🚆 **Experience**
-- 👨‍💻 Machine Learning Engineer @ [Founder's Studio, Bain & Co.](https://www.bain.com/consulting-services/engine-2-ventures/founders-studio/), May 2023-March 2024
+- 👨‍💻 CTO Associate @ [Alan](https://www.alan.com), April 2024-*current*
+- 👨‍💻 Machine Learning Engineer @ [Founder's Studio, Bain & Co.](https://www.bain.com/consulting-services/engine-2-ventures/founders-studio/), May 2023-April 2024
 - 🤓 Research Intern @ [ELI Beamlines](https://www.eli-beams.eu/) & [VANDAL Lab](http://vandal.polito.it/), Feb. 2023-May 2023
-- ⚙️ ML Engineering Intern @ [ELI Beamlines](https://www.eli-beams.eu/), July 2022-Oct. 2022
-- 💻 Software Engineering Intern @ [NTSG](https://www.ntsgen.com/en/), July 2021
+- 👨‍💻 ML Engineering Intern @ [ELI Beamlines](https://www.eli-beams.eu/), July 2022-Oct. 2022
+- 👨‍💻 Software Engineering Intern @ [NTSG](https://www.ntsgen.com/en/), July 2021
 - 🤵 A whole lot of waiting tables during Uni, 2017-2021. *Be nice with servers!*
 
 ## 📫 **Get in touch**

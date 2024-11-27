@@ -1,7 +1,6 @@
 # Ciao! 👋
 
-I am Francesco Capuano, Data Science and Engineering graduate at Politecnico di Torino & Politecnico di Milano, Italy's top engineering schools.
-Throughout my journey I focused on **Deep Learning**, with a particular interest on **Deep Reinforcement Learning** and **Deep NLP**.
+Francesco here :) Currently working towards MVA at ENS, and participanting in hackathons :) I deal with **Deep Learning**, with a particular interest in **Deep Reinforcement Learning** and **Deep NLP**.
 
 <!--
 My MSc thesis work revolved on Deep Reinforcement Learning and Neural Architecture Search, and received joint supervision from researchers at Politecnico di Torino and Politecnico di Milano. 
@@ -13,9 +12,10 @@ I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?
  - Bachelor: **Engineering @ Sapienza University of Rome**, Sep. 2018-July 2021 ***summa cum laude***
  - Master of Science: **Data Science and Engineering @ Politecnico di Torino**, Sep. 2021-July 2023 ***summa cum laude***
  - Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honours Program), Feb. 2022-Feb. 2024
+ - MVA (ENS Paris Saclay), the leading MSc in AI in Europe 🇪🇺 (Yann LeCun's words!), Sep. 2024-*current*
 
 ## 🚆 **Experience**
-- 👨‍💻 CTO Associate @ [Alan](https://www.alan.com), April 2024-*current*
+- 👨‍💻 CTO Associate @ [Alan](https://www.alan.com), April 2024-October 2024
 - 👨‍💻 Machine Learning Engineer @ [Founder's Studio, Bain & Co.](https://www.bain.com/consulting-services/engine-2-ventures/founders-studio/), May 2023-April 2024
 - 🤓 Research Intern @ [ELI Beamlines](https://www.eli-beams.eu/) & [VANDAL Lab](http://vandal.polito.it/), Feb. 2023-May 2023
 - 👨‍💻 ML Engineering Intern @ [ELI Beamlines](https://www.eli-beams.eu/), July 2022-Oct. 2022

@@ -1,6 +1,6 @@
 # Ciao! 👋
 
-Francesco here :) Currently working towards MVA at ENS, and participanting in hackathons :) I deal with **Deep Learning**, with a particular interest in **Deep Reinforcement Learning** and **Deep NLP**.
+Francesco here :) I deal with **Deep Learning**, with a particular interest in **Deep Reinforcement Learning** and **Deep NLP**.
 
 <!--
 My MSc thesis work revolved on Deep Reinforcement Learning and Neural Architecture Search, and received joint supervision from researchers at Politecnico di Torino and Politecnico di Milano. 

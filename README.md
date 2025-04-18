@@ -16,7 +16,7 @@ I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?
 
 ## 🚆 **Experience**
 - 🤓 Robotics Research @ [Hugging Face](https://www.huggingface.co), April 2025, **current**
-- 👨‍💻 DevRel @ [Mistral](https://www.mistral.ai), January 2025-April 2025
+- 👨‍💻 DevRel @ [Mistral AI](https://www.mistral.ai), January 2025-April 2025
 - 👨‍💻 CTO Associate @ [Alan](https://www.alan.com), April 2024-October 2024
 - 👨‍💻 Machine Learning Engineer @ [Founder's Studio, Bain & Co.](https://www.bain.com/consulting-services/engine-2-ventures/founders-studio/), May 2023-April 2024
 - 🤓 Research Intern @ [ELI Beamlines](https://www.eli-beams.eu/) & [VANDAL Lab](http://vandal.polito.it/), Feb. 2023-May 2023

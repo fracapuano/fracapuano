@@ -8,11 +8,11 @@ I was supervised by [Prof. Barbara Caputo](https://scholar.google.com/citations?
 -->
 
 ## 🎓 **Education**
-
- - Bachelor: **Engineering @ Sapienza University of Rome**, Sep. 2018-July 2021 ***summa cum laude***
- - Master of Science: **Data Science and Engineering @ Politecnico di Torino**, Sep. 2021-July 2023 ***summa cum laude***
- - Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honours Program), Feb. 2022-Feb. 2024
- - MVA (ENS Paris Saclay), the leading MSc in AI in Europe 🇪🇺 (Yann LeCun's words!), Sep. 2024-*current*
+ 
+- MVA (ENS Paris Saclay), the leading MSc in AI in Europe 🇪🇺 (Yann LeCun's words!), Sep. 2024-*current*
+- Alta Scuola Politecnica (Politecnico di Milano, Politecnico di Torino joint Honours Program), Feb. 2022-Feb. 2024
+- Master of Science: **Data Science and Engineering @ Politecnico di Torino**, Sep. 2021-July 2023 ***summa cum laude***
+- Bachelor: **Engineering @ Sapienza University of Rome**, Sep. 2018-July 2021 ***summa cum laude*** 
 
 ## 🚆 **Experience**
 - 🤓 Robotics Research @ [Hugging Face](https://www.huggingface.co), April 2025, **current**

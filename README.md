@@ -8,7 +8,7 @@ I like (1) Research, (2) Reinforcement Learning, (3) Blues, (4) BJJ, and (5) tra
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fracapuano/)
 - `fc [dot] francescocapuano [at] gmail [dot] com`
-- 
+
 ## **Personal things**
 
 - 🎞️ Favourite book: _The Count of Monte Cristo_, A. Dumas.

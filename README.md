@@ -1,6 +1,6 @@
 # Ciao! 👋
 
-Francesco here :) I am a PhD student at the University of Oxford, joinly supervised by Prof. Ingmar Posner and Prof. Jakob Foerster. 
+Francesco here :) I am a PhD student at the University of Oxford, joinly supervised by [Ingmar Posner](https://ori.ox.ac.uk/people/ingmar-posner) and [Jakob Foerster](https://www.jakobfoerster.com/).
 I like (1) Research, (2) Reinforcement Learning, (3) Blues, (4) BJJ, and (5) travelling (usually in this order). 
 **More about me [here](https://fracapuano.github.io).**
 

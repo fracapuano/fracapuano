@@ -12,7 +12,6 @@ Francesco here :) I am a PhD candidate at the University of Oxford. I like (1) R
 
 - 🎞️ Favourite book: _The Count of Monte Cristo_, A. Dumas.
 - 🏋🏼 I have practiced almost every sport and eventually got stuck on BJJ's mats (🟦⬛🟦 since Nov 2023)
-- 📚 I love science.
 - 🎂 I was born in Rome, Italy, 23/04/2000.
 
 Enjoy my repositories! 🚀

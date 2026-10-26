@@ -8,7 +8,7 @@ Francesco here :) I am a PhD candidate at the University of Oxford. I like (1) R
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fracapuano/)
 - `fc [dot] francescocapuano [at] gmail [dot] com`
 
-## **Personal things**
+## **About me**
 
 - 🎞️ Favourite book: _The Count of Monte Cristo_, A. Dumas.
 - 🏋🏼 I have practiced almost every sport and eventually got stuck on BJJ's mats (🟦⬛🟦 since Nov 2023)

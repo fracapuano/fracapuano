@@ -14,4 +14,4 @@ Francesco here :) I am a PhD candidate at the University of Oxford. I like (1) R
 - 🏋🏼 I have practiced almost every sport and eventually got stuck on BJJ's mats (🟦⬛🟦 since Nov 2023)
 - 🎂 I was born in Rome, Italy, 23/04/2000.
 
-[![Francesco Capuano's GitHub stats](https://github-readme-stats.vercel.app/api?username=fracapuano&hide=issues&count_private=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=fracapuano)](https://github.com/stats-organization/github-stats-extended)
